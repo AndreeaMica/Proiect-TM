@@ -6,3 +6,4 @@
 | 18.03.2023 | v1.1    | Ioana Popescu      |Test result for functional testing
 | 22.03.2023 | v1.2    | Teodora Maria      |More details added for Test Implementation |
 ### Test Title
+Pentru text bold eg. | **Andreea**|
