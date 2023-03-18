@@ -1,5 +1,5 @@
-# Proiect-TM
-# ORANGEHRM Prjoect
+# <h1 align="center">Proiect-Practic-Testare Manuala<h1>
+# ORANGEHRM Project
 ## Test Plan
 
 ### Revision History
@@ -43,3 +43,4 @@ Pentru text bold eg. **Andreea** sau __Andreea__ sau italic bold *__Andreea__*
 
 •	Automation testing is beyond scope.
 
+Here are the link test cases [Test cases details](link)
