@@ -1,5 +1,8 @@
 # Proiect-TM
-## Revision History
+# ORANGEHRM Prjoect
+## Test Plan
+
+### Revision History
 | Date | Version   | Author   | Comments |
 | :---: | :---: | :---: | :---: |
 | 11.03.2003 | v1.0    | AndreeaMoldovan    | Draft Plan |
@@ -35,3 +38,8 @@ Pentru text bold eg. **Andreea** sau __Andreea__ sau italic bold *__Andreea__*
 •	All OrangeHRM features except Admin module.
 
 •	Non-functional testing like stress, performance is beyond scope of this project.
+
+•	No QA support for mobile application developed. Only web application will be tested.
+
+•	Automation testing is beyond scope.
+
