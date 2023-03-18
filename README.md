@@ -44,3 +44,12 @@ Pentru text bold eg. **Andreea** sau __Andreea__ sau italic bold *__Andreea__*
 •	Automation testing is beyond scope.
 
 Here are the link test cases [Test cases details](https://github.com/AndreeaMica/Proiect-TM/blob/main/Test.png)
+
+#### Entry criteria:
+
+•	functional specifications defined 
+
+•	roles needed for the project are allocated 
+
+•	initial project risks were detected and mitigated  
+
