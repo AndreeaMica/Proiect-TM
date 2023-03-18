@@ -35,16 +35,16 @@ Pentru text bold eg. **Andreea** sau __Andreea__ sau italic bold *__Andreea__*
 
  ## 1.3	 Functionalities and test out of scope 
 
-    •	All OrangeHRM features except Admin module.
-    •	Non-functional testing like stress, performance is beyond scope of this project.
-    •	No QA support for mobile application developed. Only web application will be tested.
-    •	Automation testing is beyond scope.
+ -	All OrangeHRM features except Admin module.
+ -	Non-functional testing like stress, performance is beyond scope of this project.
+ -	No QA support for mobile application developed. Only web application will be tested.
+ -	Automation testing is beyond scope.
 
 Here are the link test cases [Test cases details](https://github.com/AndreeaMica/Proiect-TM/blob/main/Test.png)
 
 #### Entry criteria:
 
-    •	functional specifications defined 
-    •	roles needed for the project are allocated 
-    •	initial project risks were detected and mitigated  
+   - functional specifications defined 
+   - roles needed for the project are allocated 
+   - initial project risks were detected and mitigated  
 
