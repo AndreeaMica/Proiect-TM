@@ -53,13 +53,13 @@ The plan identifies the items to be tested, the features to be tested, the types
 | Sofware Developer | Andrew Rootman   | 
 | QA Engineer | Andreea Moldovan   |
    
-   ### 2.1.1 Entry Criteria
+   #### 2.1.1 Entry Criteria
     
     - Functional specifications defined
     - Roles needed for the project are allocated
     - Initial project risks were detected and mitigated
     
-   ### 2.1.2 Exit Criteria 
+   #### 2.1.2 Exit Criteria 
     
     - All tests cases have been executed 
     - The number of unresolved bugs is insignificant or have a low priority 
@@ -67,7 +67,7 @@ The plan identifies the items to be tested, the features to be tested, the types
     - Deadline was reached
     - No major risks detected remained un-mitigated
     
-   ### 2.1.3 Risk detected
+   #### 2.1.3 Risk detected
     
     - Project risk: lack of experience of the QA team, short deadline of Zephyr Squad and Jira Tools, unavilability of the test environment
     - Product risk: validation constrains on the fields might be too restrictive to the end-user
@@ -113,29 +113,8 @@ Functional test cases were created in Zephyr Squad. Based on the analisys of the
     
     3.8 Test completion report
     
-
-    
-    
-
-
-    
-The scope of the final project for ITF Manual & Antomation Testing Course is to use all gained knowledge through the course and apply them in practice using a live application.
    
    
     
- ### 1.2   Functionalities in scope
- 
- -  All features of Admin module which were defined in software requirements specs to be: functional testing, GUI testing, API testing
 
- ### 1.3	 Functionalities and test out of scope 
-
-
-
-Here are the link test cases [Test cases details](https://github.com/AndreeaMica/Proiect-TM/blob/main/Test.png)
-
-#### Entry criteria:
-
-    - Functional specifications defined 
-    - Roles needed for the project are allocated 
-    - Initial project risks were detected and mitigated  
 
