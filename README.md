@@ -105,65 +105,57 @@ The plan identifies the items to be tested, the features to be tested, the types
    
    #### 2.1.2 Entry Criteria
     
-    - Functional specifications defined
-    - Roles needed for the project are allocated
-    - Initial project risks were detected and mitigated
+   -	Functional specifications defined
+   -	Roles needed for the project are allocated
+   -	Initial project risks were detected and mitigated
     
    #### 2.1.3 Exit Criteria 
     
-    - All tests cases have been executed 
-    - The number of unresolved bugs is insignificant or have a low priority 
-    - All resolved bugs have been re-tested and closed by QA team
-    - Deadline was reached
-    - No major risks detected remained un-mitigated
+   -    All tests cases have been executed 
+   -    The number of unresolved bugs is insignificant or have a low priority 
+   -    All resolved bugs have been re-tested and closed by QA team
+   -    Deadline was reached
+   -    No major risks detected remained un-mitigated
     
    #### 2.1.4 Risk detected
     
-    - Project risk: lack of experience of the QA team, short deadline of Zephyr Squad and Jira Tools, unavilability of the test environment
-    - Product risk: validation constrains on the fields might be too restrictive to the end-user
+   -    Project risk: lack of experience of the QA team, short deadline of Zephyr Squad and Jira Tools, unavilability of the test environment
+   -    Product risk: validation constrains on the fields might be too restrictive to the end-user
     
    ### 2.2 Test analysis
     
-    - Analyze business requirements to make sure that we have all the details for creating the test conditions
-    - The testing process will be executed based on the above requirements for the 'Job' section of the Admin Module. 
+   -    Analyze business requirements to make sure that we have all the details for creating the test conditions
+   -    The testing process will be executed based on the above requirements for the 'Job' section of the Admin Module. 
     
     The following test conditions were found:
     
-    -
+   -
     
     
     
    ### 2.3 Test design
     
-    - Functional test cases were created in Zephyr Squad
+   -    Functional test cases were created in Zephyr Squad    
+   -    GUI test cases were created in Zephyr Squad    
+   -    API test cases will be created in Postman
     
-    - GUI test cases were created in Zephyr Squad
-    
-    - API test cases will be created in Postman
-    
-    - Based on the analisys of the specifications, the test design techniques used for generating test cases are boundary value analisys, equivalence partitioning and use case testing.
+Based on the analisys of the specifications, the test design techniques used for generating test cases are boundary value analisys, equivalence partitioning and use case testing.
     
    ### 2.4 Test implementation
     
-        Verify that the following elements are ready before the test execution phare:
+Verify that the following elements are ready before the test execution phare:
     
-        - Test environment is up and running: [OrangeHRM](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login)
-    
-        - Acces to the environment is given username: Admin, password: admin123
-    
-        - Cycle summary was created and test cases were added to the Cycle Summary
-    
-        - Postman collection were created
+   -    Test environment is up and running: [OrangeHRM](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login)    
+   -    Acces to the environment is given username: Admin, password: admin123    
+   -    Cycle summary was created and test cases were added to the Cycle Summary    
+   -    Postman collection were created
     
    ### 2.5 Test execution
     
-        - Test cases are executed on the created on the Cycle Summary
-    
-        - Bugs were created based on the failed test cases
-    
-        - API test cases were executed
-    
-        - Full regression pack was executed
+   -    Test cases are executed on the created on the Cycle Summary
+   -    Bugs were created based on the failed test cases    
+   -    API test cases were executed    
+   -    Full regression pack was executed
     
    ### 2.6 Test completion
     
@@ -171,15 +163,11 @@ The plan identifies the items to be tested, the features to be tested, the types
     
    ### 2.7 Test monitoring and control
     
-        - Generate periodic reports to check the project status for the executed test cases and status for the converge of the business requirements.
-        
-        - Traceability matrix was generated
-    
-        - Test execution was generated, the final report shows that a number of X tests have failed of a total of X tests. 
-    
-        - A number of X test cases were planned for execution and all of them were executed
-    
-        - A number of X bugs were found, from which the priority
+    -   Generate periodic reports to check the project status for the executed test cases and status for the converge of the business requirements.        
+    -   Traceability matrix was generated    
+    -   Test execution was generated, the final report shows that a number of X tests have failed of a total of X tests.     
+    -   A number of X test cases were planned for execution and all of them were executed    
+    -   A number of X bugs were found, from which the priority
     
 ## 3. Test deliverables
 
