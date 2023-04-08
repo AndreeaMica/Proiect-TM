@@ -21,13 +21,13 @@
     
      2.1 Test planning
      
-      2.1.1 Roles and responsabilities
+       2.1.1 Roles and responsabilities
     
-      2.1.2 Entry Criteria
+       2.1.2 Entry Criteria
     
-      2.1.3 Exit Criteria
+       2.1.3 Exit Criteria
     
-      2.1.4 Risk detected
+       2.1.4 Risk detected
     
      2.2 Test analysis
     
