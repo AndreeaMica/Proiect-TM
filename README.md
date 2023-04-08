@@ -163,11 +163,11 @@ Verify that the following elements are ready before the test execution phare:
     
    ### 2.7 Test monitoring and control
     
-    -   Generate periodic reports to check the project status for the executed test cases and status for the converge of the business requirements.        
-    -   Traceability matrix was generated    
-    -   Test execution was generated, the final report shows that a number of X tests have failed of a total of X tests.     
-    -   A number of X test cases were planned for execution and all of them were executed    
-    -   A number of X bugs were found, from which the priority
+   -   Generate periodic reports to check the project status for the executed test cases and status for the converge of the business requirements.        
+   -   Traceability matrix was generated    
+   -   Test execution was generated, the final report shows that a number of X tests have failed of a total of X tests.     
+   -   A number of X test cases were planned for execution and all of them were executed    
+   -   A number of X bugs were found, from which the priority
     
 ## 3. Test deliverables
 
