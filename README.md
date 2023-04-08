@@ -70,7 +70,7 @@ The scope of the final project for ITF Manual & Automation Testing Course is to 
     
 Application under test: [OrangeHRM](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login)
     
-Application documentation: [OrangeHRM Doc.pdf](https://www.orangehrm.com/assets/Files/Complete-Administrative-UserGuide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf)
+Application documentation: [OrangeHRM.pdf](https://github.com/AndreeaMica/Proiect-TM/blob/main/Complete-Administrative-User-Guide.pdf)
     
    Tools: Jira, Zephyr Squad, Postman, MySql
     
