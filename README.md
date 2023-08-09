@@ -125,12 +125,31 @@ The plan identifies the items to be tested, the features to be tested, the types
    ### 2.2 Test analysis
     
    -    Analyze business requirements to make sure that we have all the details for creating the test conditions
-   -    The testing process will be executed based on the above requirements for the 'Job' section of the Admin Module. 
+   -    The testing process will be executed based on the above requirements for the 'Job' section of the Admine Module. 
     
     The following test conditions were found:
-    
-   -
-    
+
+   -    Verify that Admin user can add a job title
+   -    Verify that Admin user can add multiple job titles
+   -    Verify that Admin user can delete a job title
+   -    Verify that Admin user can delete multiple job titles
+   -    Verify that 'Job Title' field is a mandatory field
+   -    Verify that Admin user can add a random number in the 'Job title field' 
+   -    Verify that Admin user cannot add special characters in the 'Job title' field
+   -    Verify that Admin user can add a job title with 80 characters
+   -    Verify that a combination of numbers and characters is not allowed in the "job title" field
+   -    Verify that the 'Job title' field from OrangeHRM app is completely visible in Chrome browser
+   -    Verify that the 'Job title' field from OrangeHRM app is completely visible in Mozzilla Firefox browser when click on Add button
+   -    Verify that the field 'name' is mandatory in Pay Grades section
+   -    Verify that admin user can cancel editing a pay grade name after saving it
+   -    Verify that admin user can edit details of a particular currency
+   -    Verify that admin user can save a positive value in minimum salary field
+   -    Verify that admin user cannot save a negative value in minimum salary field
+   -    Verify that admin user cannot save non-numerical characters in the 'minimum salary' field
+   -    Verify that the 'minimum' and 'maximum' salary fields are mandatory in the Add Pay Grade section
+   -    Verify that admin user can assign multiple currencies
+   -    Verify that admin user can delete multiple currencies
+   -    Verify that admin user can edit a pay grade name 
     
     
    ### 2.3 Test design
@@ -159,7 +178,7 @@ Verify that the following elements are ready before the test execution phare:
     
    ### 2.6 Test completion
     
- As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team.
+ As the Exit criterias were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team.
     
    ### 2.7 Test monitoring and control
     
