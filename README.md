@@ -61,7 +61,7 @@
 
 ## 1. Introduction
     
-This test plan describes the strategies, process, workflows and methodologies used to plan, organize, execute and manage testing process for OrangeHRM browser application.
+This test plan describes the strategies, process, workflows and methodologies used to plan, organize, execute and manage testing process for OrangeHRM browser application, Job section from Admin Module.
 
    ### 1.1   Project Objective 
 
@@ -96,12 +96,13 @@ The plan identifies the items to be tested, the features to be tested, the types
     
    #### 2.1.1 Roles and responsabilities
     
-| Roles | Responsible   |    |  |
-| :---: | :---: | :---: | :---: |
-| Product Owner | Michael Bitter    | 
-| Project Manager  | Jamer Koors   | 
-| Sofware Developer | Andrew Rootman   | 
-| QA Engineer | Andreea Moldovan   |
+| Roles | Responsible   |
+| :---: | :---: |
+| Product Owner | Michael Bitter| 
+| Project Manager  | Jamer Koors| 
+| Sofware Developer | Andrew Rootman| 
+| QA Engineer | John Raspberry|
+| Senior QA Engineer | Andreea Moldovan|
    
    #### 2.1.2 Entry Criteria
     
