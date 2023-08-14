@@ -189,7 +189,7 @@ Verify that the following elements are ready before the test execution phare:
    -   Traceability matrix was generated    
    -   Test execution was generated, the final report shows that a number of X tests have failed of a total of X tests.     
    -   A number of 21 test cases were planned for execution and all of them were executed    
-   -   A number of 6 bugs were found, from which the priority is high and medium.
+   -   A number of 7 bugs were found, from which the priority is high and medium.
 
 First week report ![raport intermediar orangehrm](https://github.com/AndreeaMica/Proiect-TM/assets/128214596/ca8bd967-b432-49bb-a55a-466932656f46)
 
@@ -236,7 +236,19 @@ Second week report ![raport intermediar 2 orangehrm](https://github.com/AndreeaM
    [test completion](https://github.com/AndreeaMica/Proiect-TM/blob/main/raport%20general.png)
     
    ### 3.9 Schedule
-    
+
+
+| Date | Task   | Executed by   | 
+| :---: | :---: | :---: | 
+| 11.03.2003 | Run functional test cases for Job submenu    | Andreea Moldovan    | 
+| 18.03.2023 | Run GUI testing for Job title submenu    | Andreea Moldovan      |
+| 22.03.2023 | Run GUI testing for Pay Grades submenu    | Andreea Moldovan    |
+| 15.04.2023 | Run functional testing for Pay Grades submenu     | Andreea Moldovan      |
+| 28.05.2023 | Export daily report     | Andreea Moldovan      |
+| 16.07.2023 | Export traceability matrix      | Andreea Moldovan      |
+| 10.08.2023 | Export general report       | Andreea Moldovan      |
+
+
    
    
     
