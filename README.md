@@ -226,6 +226,8 @@ Second week report ![raport intermediar 2 orangehrm](https://github.com/AndreeaM
    Here you can find the [traceability matrix](https://github.com/AndreeaMica/Proiect-TM/blob/main/Forward%20Traceability%20Matrix.xlsx)
     
    ### 3.6 Test case results
+
+   You can find the test case results [here](https://github.com/AndreeaMica/Proiect-TM/blob/main/OP-26-combined%20(1).pdf)
     
    ### 3.7 Bugs report
 
@@ -253,6 +255,7 @@ Second week report ![raport intermediar 2 orangehrm](https://github.com/AndreeaM
 | 28.05.2023 | Export daily report     | Andreea Moldovan      |
 | 16.07.2023 | Export traceability matrix      | Andreea Moldovan      |
 | 10.08.2023 | Export general report       | Andreea Moldovan      |
+| 20.08.2023 | Send final project       | Andreea Moldovan      |
 
 
    
