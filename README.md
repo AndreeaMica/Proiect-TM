@@ -77,7 +77,8 @@ Application documentation: [OrangeHRM.pdf](https://github.com/AndreeaMica/Proiec
    ### 1.2 Functionalities in scope
    
    - The 'Job' section of Admin module which is defined in software requirement specs need to be: functional testing, GUI testing, API testing
-   - Screenshots from Jira with user story details
+   - Screenshots from Jira with user story details here [User story 1](https://github.com/AndreeaMica/Proiect-TM/blob/main/OP-3.pdf)
+     [User story 2](https://github.com/AndreeaMica/Proiect-TM/blob/main/OP-24.pdf)
      
     
    ### 1.3 Functionalities and tests out of scope
@@ -187,7 +188,7 @@ Verify that the following elements are ready before the test execution phare:
    -   Generate periodic reports to check the project status for the executed test cases and status for the converge of the business requirements.        
    -   Traceability matrix was generated    
    -   Test execution was generated, the final report shows that a number of X tests have failed of a total of X tests.     
-   -   A number of 17 test cases were planned for execution and all of them were executed    
+   -   A number of 21 test cases were planned for execution and all of them were executed    
    -   A number of 6 bugs were found, from which the priority is high and medium.
 
 First week report ![raport intermediar orangehrm](https://github.com/AndreeaMica/Proiect-TM/assets/128214596/ca8bd967-b432-49bb-a55a-466932656f46)
@@ -200,16 +201,30 @@ Second week report ![raport intermediar 2 orangehrm](https://github.com/AndreeaM
    ### 3.1 Test plan
     
    ### 3.2 Test conditions
+
+   [Test conditions](https://github.com/AndreeaMica/Proiect-TM/blob/main/test%20conditions%201.png)
+   
+   [Test conditions](https://github.com/AndreeaMica/Proiect-TM/blob/main/test%20conditions%202.png)
+   
+   [Test conditions](https://github.com/AndreeaMica/Proiect-TM/blob/main/test%20conditions%203.png)
+   
+   [Test conditions](https://github.com/AndreeaMica/Proiect-TM/blob/main/test%20conditions%204.png)
     
    ### 3.3 Test cases
+
+   You can find the test cases [here](https://github.com/AndreeaMica/Proiect-TM/blob/main/OP-26-combined.pdf)
     
    ### 3.4 Daily test summary reports
     
    ### 3.5 Traceability matrix
+
+   Here you can find the [traceability matrix](https://github.com/AndreeaMica/Proiect-TM/blob/main/Forward%20Traceability%20Matrix.xlsx)
     
    ### 3.6 Test case results
     
    ### 3.7 Bugs report
+
+   
     
    ### 3.8 Test completion report
     
