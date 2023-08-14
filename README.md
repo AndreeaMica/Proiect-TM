@@ -78,6 +78,7 @@ Application documentation: [OrangeHRM.pdf](https://github.com/AndreeaMica/Proiec
    
    - The 'Job' section of Admin module which is defined in software requirement specs need to be: functional testing, GUI testing, API testing
    - Screenshots from Jira with user story details
+     
     
    ### 1.3 Functionalities and tests out of scope
     
@@ -186,8 +187,13 @@ Verify that the following elements are ready before the test execution phare:
    -   Generate periodic reports to check the project status for the executed test cases and status for the converge of the business requirements.        
    -   Traceability matrix was generated    
    -   Test execution was generated, the final report shows that a number of X tests have failed of a total of X tests.     
-   -   A number of X test cases were planned for execution and all of them were executed    
-   -   A number of X bugs were found, from which the priority
+   -   A number of 17 test cases were planned for execution and all of them were executed    
+   -   A number of 6 bugs were found, from which the priority is high and medium.
+
+First week report ![raport intermediar orangehrm](https://github.com/AndreeaMica/Proiect-TM/assets/128214596/ca8bd967-b432-49bb-a55a-466932656f46)
+
+Second week report ![raport intermediar 2 orangehrm](https://github.com/AndreeaMica/Proiect-TM/assets/128214596/eb9a4102-3d39-43ab-9e53-386e213875c0)
+
     
 ## 3. Test deliverables
 
