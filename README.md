@@ -214,7 +214,7 @@ Second week report ![raport intermediar 2 orangehrm](https://github.com/AndreeaM
     
    ### 3.3 Test cases
 
-   You can find the test cases [here](https://github.com/AndreeaMica/Proiect-TM/blob/main/OP-26-combined.pdf)
+   You can find the test cases and steps [here](https://github.com/AndreeaMica/Proiect-TM/blob/main/OP-26-combined.pdf)
     
    ### 3.4 Daily test summary reports
 
