@@ -229,7 +229,13 @@ Second week report ![raport intermediar 2 orangehrm](https://github.com/AndreeaM
     
    ### 3.7 Bugs report
 
-   
+   [Bug 1](https://github.com/AndreeaMica/Proiect-TM/blob/main/BUG1.png)
+   [Bug 2](https://github.com/AndreeaMica/Proiect-TM/blob/main/BUG2.png)
+   [Bug 3](https://github.com/AndreeaMica/Proiect-TM/blob/main/bug3.png)
+   [Bug 4](https://github.com/AndreeaMica/Proiect-TM/blob/main/bug4.png)
+   [Bug 5](https://github.com/AndreeaMica/Proiect-TM/blob/main/bug7.png)
+   [Bug 6](https://github.com/AndreeaMica/Proiect-TM/blob/main/bug8.png)
+   [Bug 7](https://github.com/AndreeaMica/Proiect-TM/blob/main/bug9.png)
     
    ### 3.8 Test completion report
 
