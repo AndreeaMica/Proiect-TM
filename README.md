@@ -199,6 +199,8 @@ Second week report ![raport intermediar 2 orangehrm](https://github.com/AndreeaM
 ## 3. Test deliverables
 
    ### 3.1 Test plan
+
+   The test plan should be delivered to the Project Manager until the 5th week of the TM Courses of the ITF Company.
     
    ### 3.2 Test conditions
 
@@ -215,6 +217,9 @@ Second week report ![raport intermediar 2 orangehrm](https://github.com/AndreeaM
    You can find the test cases [here](https://github.com/AndreeaMica/Proiect-TM/blob/main/OP-26-combined.pdf)
     
    ### 3.4 Daily test summary reports
+
+   (https://github.com/AndreeaMica/Proiect-TM/assets/128214596/ca8bd967-b432-49bb-a55a-466932656f46)
+   (https://github.com/AndreeaMica/Proiect-TM/assets/128214596/eb9a4102-3d39-43ab-9e53-386e213875c0)
     
    ### 3.5 Traceability matrix
 
@@ -227,6 +232,8 @@ Second week report ![raport intermediar 2 orangehrm](https://github.com/AndreeaM
    
     
    ### 3.8 Test completion report
+
+   [test completion](https://github.com/AndreeaMica/Proiect-TM/blob/main/raport%20general.png)
     
    ### 3.9 Schedule
     
