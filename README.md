@@ -237,7 +237,7 @@ Second week report ![raport intermediar 2 orangehrm](https://github.com/AndreeaM
    Second bug report has high impact because the 'Job title' field is disabled and cannot add any job title.
    [Bug 2](https://github.com/AndreeaMica/Proiect-TM/blob/main/BUG2.png)
 
-  
+   Third bug report allows to add special characters in 'Job title' field instead of showing an error message.
    [Bug 3](https://github.com/AndreeaMica/Proiect-TM/blob/main/bug3.png)
    [Bug 4](https://github.com/AndreeaMica/Proiect-TM/blob/main/bug4.png)
    [Bug 5](https://github.com/AndreeaMica/Proiect-TM/blob/main/bug7.png)
