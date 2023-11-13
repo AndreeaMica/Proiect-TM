@@ -230,9 +230,14 @@ Second week report ![raport intermediar 2 orangehrm](https://github.com/AndreeaM
    You can find the test case results [here](https://github.com/AndreeaMica/Proiect-TM/blob/main/OP-26-combined%20(1).pdf)
     
    ### 3.7 Bugs report
-
+    
+   The first bug report has medium impact, it allows saving a paygrade without adding a minimum and maximum salary.
    [Bug 1](https://github.com/AndreeaMica/Proiect-TM/blob/main/BUG1.png)
+
+   Second bug report has high impact because the 'Job title' field is disabled and cannot add any job title.
    [Bug 2](https://github.com/AndreeaMica/Proiect-TM/blob/main/BUG2.png)
+
+  
    [Bug 3](https://github.com/AndreeaMica/Proiect-TM/blob/main/bug3.png)
    [Bug 4](https://github.com/AndreeaMica/Proiect-TM/blob/main/bug4.png)
    [Bug 5](https://github.com/AndreeaMica/Proiect-TM/blob/main/bug7.png)
