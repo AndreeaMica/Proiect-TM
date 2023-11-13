@@ -243,7 +243,7 @@ Second week report ![raport intermediar 2 orangehrm](https://github.com/AndreeaM
    The fourth bug report shows that a combination of numbers and letters can be added in 'Job title' field, instead of showing an error message.
    [Bug 4](https://github.com/AndreeaMica/Proiect-TM/blob/main/bug4.png)
 
-   The fifth bug report shows that cannot save multiple currencies despite the 
+   The fifth bug report shows that cannot save multiple currencies despite of given documentation.
    [Bug 5](https://github.com/AndreeaMica/Proiect-TM/blob/main/bug7.png)
    [Bug 6](https://github.com/AndreeaMica/Proiect-TM/blob/main/bug8.png)
    [Bug 7](https://github.com/AndreeaMica/Proiect-TM/blob/main/bug9.png)
