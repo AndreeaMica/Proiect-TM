@@ -239,6 +239,8 @@ Second week report ![raport intermediar 2 orangehrm](https://github.com/AndreeaM
 
    Third bug report allows to add special characters in 'Job title' field instead of showing an error message.
    [Bug 3](https://github.com/AndreeaMica/Proiect-TM/blob/main/bug3.png)
+
+   
    [Bug 4](https://github.com/AndreeaMica/Proiect-TM/blob/main/bug4.png)
    [Bug 5](https://github.com/AndreeaMica/Proiect-TM/blob/main/bug7.png)
    [Bug 6](https://github.com/AndreeaMica/Proiect-TM/blob/main/bug8.png)
