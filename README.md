@@ -49,7 +49,7 @@
     
      3.3 Test cases
     
-     3.4 daily test summary reports
+     3.4 Daily test summary reports
     
      3.5 Traceability matrix
     
@@ -123,12 +123,12 @@ The plan identifies the items to be tested, the features to be tested, the types
    #### 2.1.4 Risk detected
     
    -    Project risk: lack of experience of the QA team, short deadline of Zephyr Squad and Jira Tools, unavilability of the test environment
-   -    Product risk: validation constrains on the fields might be too restrictive to the end-user
-    
+   -    Product risk: functional and non functional errors
+     
    ### 2.2 Test analysis
     
-   -    Analyze business requirements to make sure that we have all the details for creating the test conditions
-   -    The testing process will be executed based on the above requirements for the 'Job' section of the Admine Module. 
+   -    Analyse business requirements to make sure that we have all the details for creating the test conditions
+   -    The testing process will be executed based on the above requirements for the 'Job' section of the Admin Module. 
     
     The following test conditions were found:
 
@@ -144,7 +144,7 @@ The plan identifies the items to be tested, the features to be tested, the types
        -    Verify that the 'Job title' field from OrangeHRM app is completely visible in Chrome browser
        -    Verify that the 'Job title' field from OrangeHRM app is completely visible in Mozzilla Firefox browser when click on Add button
        -    Verify that the field 'name' is mandatory in Pay Grades section
-       -    Verify that admin user can cancel editing a pay grade name after saving it
+       -    Verify that admin user can cancel editing a pay grade name 
        -    Verify that admin user can edit details of a particular currency
        -    Verify that admin user can save a positive value in minimum salary field
        -    Verify that admin user cannot save a negative value in minimum salary field
@@ -161,11 +161,11 @@ The plan identifies the items to be tested, the features to be tested, the types
    -    GUI test cases were created in Zephyr Squad    
    -    API test cases will be created in Postman
     
-Based on the analisys of the specifications, the test design techniques used for generating test cases are boundary value analisys, equivalence partitioning and use case testing.
+Based on the analysis of the specifications, the test design techniques used for generating test cases are boundary value analisys, equivalence partitioning and use case testing.
     
    ### 2.4 Test implementation
     
-Verify that the following elements are ready before the test execution phare:
+Verify that the following elements are ready before the test execution phase:
     
    -    Test environment is up and running: [OrangeHRM](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login)    
    -    Acces to the environment is given username: Admin, password: admin123    
@@ -174,20 +174,20 @@ Verify that the following elements are ready before the test execution phare:
     
    ### 2.5 Test execution
     
-   -    Test cases are executed on the created on the Cycle Summary
+   -    Test cases were executed from the created Cycle Summary
    -    Bugs were created based on the failed test cases    
    -    API test cases were executed    
    -    Full regression pack was executed
     
    ### 2.6 Test completion
     
- As the Exit criterias were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team.
+ As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team.
     
    ### 2.7 Test monitoring and control
     
    -   Generate periodic reports to check the project status for the executed test cases and status for the converge of the business requirements.        
    -   Traceability matrix was generated    
-   -   Test execution was generated, the final report shows that a number of X tests have failed of a total of X tests.     
+   -   Test execution was generated, the final report shows that a number of 7 tests have failed of a total of 21 tests.     
    -   A number of 21 test cases were planned for execution and all of them were executed    
    -   A number of 7 bugs were found, from which the priority is high and medium.
 
@@ -218,8 +218,8 @@ Second week report ![raport intermediar 2 orangehrm](https://github.com/AndreeaM
     
    ### 3.4 Daily test summary reports
 
-   (https://github.com/AndreeaMica/Proiect-TM/assets/128214596/ca8bd967-b432-49bb-a55a-466932656f46)
-   (https://github.com/AndreeaMica/Proiect-TM/assets/128214596/eb9a4102-3d39-43ab-9e53-386e213875c0)
+   [Test report1](https://github.com/AndreeaMica/Proiect-TM/assets/128214596/ca8bd967-b432-49bb-a55a-466932656f46)
+   [Test report2](https://github.com/AndreeaMica/Proiect-TM/assets/128214596/eb9a4102-3d39-43ab-9e53-386e213875c0)
     
    ### 3.5 Traceability matrix
 
